@@ -3,20 +3,20 @@ NPA à checker selon diff entre numéros attribués et numéro présents sur le 
 NB: pour FR et VS, attendre l'intégration des paroisses.
 
 1015 # EPFL / UniL
-1023
-1046
-1047
-1052
-1068
-1093
-1122
-1201
-1215
-1216
-1298
-1337
-1400
-1484
+1023 # Crissier
+1046 # Rueyres -> Paroisse Sauteruz
+1047 # Oppens -> Paroisse Sauteruz
+1052 # Le Mont-sur-Lausanne
+1068 # Les Monts-de-Pully -> Paroisse Pully Paudex
+1093 # La Conversion -> Paroisse Pully Paudex
+1122 # Romanel-sur-Morges -> Paroisse de Lonay-Préverenges-Vullierens
+1201 # Genève Rive droite (Cornavin/Paquis/Seujet/Grottes etc... cf: https://ge.ch/sitg/sitg_catalog/sitg_donnees?keyword=&geodataid=6132&topic=tous&service=tous&datatype=tous&distribution=tous&sort=auto)
+1215 # Genève aéroport 
+1216 # Cointrin -> paroisse Cointrin Avanchet
+1298 # Céligny -> paroisse de Terre sainte (statut un peu spécial à cheval EPG/EERV)
+1337 # Vallorbe
+1400 # Yverdon #Cheseaux Noréaz
+1484 # Aumont (FR) #Granges-de-Vesin
 1527
 1528
 1529
